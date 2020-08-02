@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/product-cards/static/css/main.d07630e8.chunk.css",
+    "main.js": "/product-cards/static/js/main.bcec5f4b.chunk.js",
+    "main.js.map": "/product-cards/static/js/main.bcec5f4b.chunk.js.map",
+    "runtime-main.js": "/product-cards/static/js/runtime-main.57c3787a.js",
+    "runtime-main.js.map": "/product-cards/static/js/runtime-main.57c3787a.js.map",
+    "static/js/2.9eb6a52a.chunk.js": "/product-cards/static/js/2.9eb6a52a.chunk.js",
+    "static/js/2.9eb6a52a.chunk.js.map": "/product-cards/static/js/2.9eb6a52a.chunk.js.map",
+    "index.html": "/product-cards/index.html",
+    "precache-manifest.1eb7f824c5e897b2be9c8aa53e35f4f0.js": "/product-cards/precache-manifest.1eb7f824c5e897b2be9c8aa53e35f4f0.js",
+    "service-worker.js": "/product-cards/service-worker.js",
+    "static/css/main.d07630e8.chunk.css.map": "/product-cards/static/css/main.d07630e8.chunk.css.map",
+    "static/js/2.9eb6a52a.chunk.js.LICENSE.txt": "/product-cards/static/js/2.9eb6a52a.chunk.js.LICENSE.txt",
+    "static/media/boho-bangle-bracelet.jpg": "/product-cards/static/media/boho-bangle-bracelet.b7de00d0.jpg",
+    "static/media/chakra-bracelet.jpg": "/product-cards/static/media/chakra-bracelet.87315860.jpg",
+    "static/media/embroidered-bracelet.jpg": "/product-cards/static/media/embroidered-bracelet.5ee00271.jpg",
+    "static/media/stacked-bracelets-set.jpg": "/product-cards/static/media/stacked-bracelets-set.99ba0ffe.jpg",
+    "static/media/stacked-bracelets.jpg": "/product-cards/static/media/stacked-bracelets.5c744f39.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57c3787a.js",
+    "static/js/2.9eb6a52a.chunk.js",
+    "static/css/main.d07630e8.chunk.css",
+    "static/js/main.bcec5f4b.chunk.js"
+  ]
+}
